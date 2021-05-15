@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "About Katt"
   avatar           : "profile.png"
-  bio              : "Data Archeologist, humming the Indiana Jones theme song"
+  bio              : "Data Archeologist, humming the Indiana Jones theme song <br> <br> Director of Operations Data Analysis at <a style='color: black;' href='https://cash.app'>Cash App</a>"
   location         : "Portland, OR"
-  employer         : "Cash App @ Square"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "katt@fatehold.com"
