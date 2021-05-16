@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+# Curriculum Vitae
+### katt at fatehold.com | kattkennedy.me | linkedin.com/in/kattkennedy
+
+
 Education
 ======
 2011    M.B.A, University of New Hampshire
