@@ -7,10 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 # Curriculum Vitae
-### katt at fatehold.com | kattkennedy.me | linkedin.com/in/kattkennedy
+##### katt at fatehold.com | kattkennedy.me | linkedin.com/in/kattkennedy
 
 
 Education
