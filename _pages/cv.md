@@ -69,9 +69,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
+
 2020 - current  Cash App Neurodiversity community leader
+
+2016 - current  Founder and Manager, Fatehold
+
 2019 - 2020     Data Science Mentor, Emerging Leaders
+
 2016 - 2018     Board of Directors, Games to Gather
 
