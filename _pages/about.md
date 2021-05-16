@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!  I'm Katt Kennedy, the Director of Operations Data Analytics at Cash App.  I'm a terrible data generalist, coming from a background in psychology, business, and data science.  
 
-My approach to research and teaching is based on understanding and improving source material.  This can be anything from adjusting a research method to digging through ancient documentation , or just helping someone gain perspective.  I've found the most important part of research is fostering psychological safety and equity so everyone can contribute to a better answer.
+My approach to research and teaching is based on understanding and improving source material.  This can be anything from adjusting a research method to digging through ancient documentation, or just helping someone gain perspective.  I've found the most important part of research is fostering psychological safety and equity so everyone can contribute to a better answer.
 
 Right now, I'm working on getting back to school for a doctoral program in psychology, focusing on unbiased data collection from underrepresented groups.
 

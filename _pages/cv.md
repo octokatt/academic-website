@@ -11,30 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+2011    M.B.A, University of New Hampshire
 
-Work experience
+2009    B.S. in Psychology (Honors), minor Business Administration, University of New Hampshire
+
+
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+2020 - 2021   *Director of Operations Analytics*, Cash App
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+2019 - 2020   *Data Scientist*, HP
+
+2017 - 2018   *NLP Analyst*, Nautilus, Inc.
+
+2015 - 2016   *Data Architect, Senior Researcher*, Spear Education
+
+2013 - 2014   *Senior Data Analyst*, Oncology Convergence
+
+2011 - 2012   *Financial Analyst*, Toyota
+
+2009 - 2010   *Marketing and Technology Researcher*, Department of Education
+
+2009 - 2010   *Research Business Analyst*, Technology Business Research Institute
+
+2009 - 2010   *Graduate Research Assistant*, University of New Hampshire
+
   
-Skills
+Research Interests and Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* *Topical:* effects of psychological safety and emotional intelligence within the workplace, particularly concerning under-represented minorities (URM), neurodivergent people, and disabled people
+* *Disciplinary:* industrial/organizational psychology, perceptual psychology, behaviorism, ABA/ACT, data science studies
+* *Methodological:*
+  - Ethnography, including interviews, focus groups, and participant-observation
+  - Quantitative data collection and interpretation in Python, R, SQL
+  - User interface evaluation, including experimentation design, A/B testing, and analysis
+  - Survey design, including debiasing, return rate improvements, longitudinal study tuning
+  - Time study operations analysis, workflow improvements, efficacy measurement
+* *Leadership:* formal presentation, learning path design, mentoring program creation, project management
 
 Publications
 ======
@@ -56,4 +69,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Board of Directors, Games to Gather, 2016-2018
+* Data Science Mentor, Emerging Leaders, 2019-2020
