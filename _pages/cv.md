@@ -32,7 +32,7 @@ Research Experience
 
 2013 - 2014   *Senior Data Analyst*, Oncology Convergence
 
-2011 - 2012   *Financial Analyst*, Toyota
+2011 - 2012   *Data Project Coordinator*, Toyota
 
 2009 - 2010   *Marketing and Technology Researcher*, Department of Education
 
@@ -73,5 +73,7 @@ Teaching
   
 Service and leadership
 ======
-* Board of Directors, Games to Gather, 2016-2018
-* Data Science Mentor, Emerging Leaders, 2019-2020
+2020 - current  Cash App Neurodiversity community leader
+2019 - 2020     Data Science Mentor, Emerging Leaders
+2016 - 2018     Board of Directors, Games to Gather
+
